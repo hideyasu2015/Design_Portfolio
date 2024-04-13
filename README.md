@@ -16,10 +16,13 @@
 #### 利用した技術
 - Django 5.0
 - CloudRun(GCP)
-  
+
+---
+
 ## WEBサイト作成(WordPress)
 
 ### <a href="https://cosmo-en.co.jp/" target="_blank">コスモエンジニアリング</a>
+![コスモエンジニアリング](https://github.com/hideyasu2015/Design_Portfolio/assets/13433861/77a9cf2d-d67a-426b-857e-050c846c38f1)
 
 ## 目的 人材獲得
 #### 解決した問題
